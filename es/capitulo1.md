@@ -4,7 +4,7 @@
 
 [wikipedia!](https://es.wikipedia.org/wiki/Software_libre)
 
-¡Lo básico son las cuatro libertades que garantiza un software libre!
+¡Lo básico son las cuatro libertades que garantizan un software libre!
 
 | | |
 |---|---|

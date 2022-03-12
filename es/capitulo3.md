@@ -21,7 +21,7 @@ Los defensores del software libre, bajo el punto de vista de la FSF, defienden q
 
 Piensan que el conocimiento generado se debe preservar siempre como libre pues pertenece a la comunidad, y es mejor para el progreso humano.
 
-Se prefieren las licencias típicas de la FSF: GPL, AGPL, LGPL, etc. ó la MPL, etc.
+[Se prefieren las licencias típicas de la FSF: GPL, AGPL, LGPL, etc. ó la MPL, etc.](https://www.gnu.org/licenses/copyleft.es.html)
 
 ### En contra del copyleft
 
@@ -29,13 +29,13 @@ Los que están en contra del copyleft, argumentan que se debe ser tan libres, qu
 
 Piensan que condicionar como alguien debe publicar su trabajo es cohartarle la libertad.
 
-Se prefieren las licencias tipo BSD, apache, etc.
+Se prefieren las licencias llamadas permisivas, tipo BSD, apache, etc.
 
 ## Posicionamiento de la FSF
 
 La Free Software Foundation, evidentemente, apuesta por licencias con copyleft e incentiva su uso. De hecho para publicar programas en su portal estos deberán utilizar algunas de sus licencias. (de otra forma se debería argumentar muy bien)
 
-Aún así, establece que si se hacen mejoras o aportes a programas que ya estaban previamente, se siga usando la misma licencia sin copyleft que se usara, para seguir apostando por el trabajo comunitario y no crear conflicto en la comunidad. (explicamos porqué en el punto siguiente)
+Aún así, establece que si se hacen mejoras o aportes a programas que ya estaban licenciados previamente, se siga usando la misma licencia, aunque sea sin copyleft, que se usara, para seguir apostando por el trabajo comunitario y no crear conflicto en la comunidad. [referencia](https://www.gnu.org/licenses/license-recommendations.html) (explicamos porqué en el punto siguiente)
 
 ## Es complejo, ¡pensadlo bien!
 
@@ -51,3 +51,5 @@ Tened en cuenta también que **El copyleft siempre vence al no copyleft**, aquí
 + **Libreoffice puede coger mejoras que se apliquen al Openoffice, pero Openoffice no puede coger mejoras de Libreoffice!!**
 + no podemos convertir código con copyleft a código sin copyleft, pero sí al revés.
 + Libreoffice siempre será mejor programa. (a menos que su comunidad colapsara, claro)
+
+[repetimos el enlace del punto anterior, una guía de la FSF explicando como elegir nuestra licencia.](https://www.gnu.org/licenses/license-recommendations.html
