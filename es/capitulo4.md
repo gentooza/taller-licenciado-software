@@ -76,3 +76,4 @@ El portal de código de la GNU, GNU Savannah tiene buenas guías sobre como lice
 
 * [https://savannah.gnu.org/maintenance/HowToGetYourProjectApprovedQuickly/](https://savannah.gnu.org/maintenance/HowToGetYourProjectApprovedQuickly/)
 * [https://savannah.gnu.org/maintenance/ValidNotices/](https://savannah.gnu.org/maintenance/ValidNotices/)
+* [http://www.gnu.org/licenses/](http://www.gnu.org/licenses/)
