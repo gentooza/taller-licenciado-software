@@ -12,8 +12,9 @@ Usaremos un punto de visto que estableceremos como estándard, el de la Free Sof
 ### 6. [Concepto de Copyright y qué conlleva.](es/capitulo6.md)
 ### 7. [Nos complicamos un poco más, ejemplo de licenciado de una aplicación con imágenes bajo GPLv3+.](es/capitulo7.md)
 ### 8. [Nos complicamos un poco más aún, ejemplo de licenciado de una aplicación con imágenes y archivos de configuración, información, etc.](es/capitulo8.md)
-### 9. [Buenas prácticas de licenciado y curiosidades varias.](es/capitulo9.md)
-### 10. [Juntamos las referencias y donde pedir ayuda.](es/capitulo10.md)`
+### 9. [Mantenenimiento del licenciado, gestionar forks, obras derivadas, reutilizaciones, etc.](es/capitulo9.md)
+### 10. [Buenas prácticas de licenciado y curiosidades varias.](es/capitulo10.md)
+### 11. [Juntamos las referencias y donde pedir ayuda.](es/capitulo11.md)`
 
 
 
