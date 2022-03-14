@@ -1,7 +1,7 @@
 # taller-licenciado-software
 Taller para ayudar en el correcto licenciado de software, para el Aula de Software Libre de la Universidad de Córdoba, España.
 
-Usaremos un punto de visto que estableceremos como estándard, el de la Free Software Foundation (en adelante FSF) aunque valoraremos diferentes opciones de licenciado en el taller, como puntualizaremos en el punto final de buenas prácticas.
+Usaremos un punto de visto que estableceremos como estándar, el de la Free Software Foundation (en adelante FSF) aunque valoraremos diferentes opciones de licenciado en el taller, como puntualizaremos en el punto 10 de buenas prácticas.
 
 ## índice.
 ### 1. [Introducción al software libre, sabemos verdaderamente lo que es?](es/capitulo1.md)
