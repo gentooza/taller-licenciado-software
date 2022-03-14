@@ -1,2 +1,12 @@
 ejemplos/5 hola mundo/hola_mundo
 ejemplos/5 hola mundo/main.o
+
+ejemplos/8 hola mundo con imagenes y más/.env
+ejemplos/8 hola mundo con imagenes y más/.nodenv
+ejemplos/8 hola mundo con imagenes y más/node_modules
+ejemplos/8 hola mundo con imagenes y más/package.json
+ejemplos/8 hola mundo con imagenes y más/package-lock.json
+
+ejemplos/8 hola mundo con imagenes y más/hola-mundo-con-todo-y-mas/.angular
+ejemplos/8 hola mundo con imagenes y más/hola-mundo-con-todo-y-mas/node_modules
+
