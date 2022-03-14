@@ -1,4 +1,5 @@
 # 3 Concepto de Copyleft y qué conlleva. [<<](../README.md)
+[<< cap2](./capitulo2.md) - [>> cap4](./capitulo4.md)
 
 Ya tenemos un glosario interesante de la FSF para poder elegir una licencia que sea libre, pero vemos que hacen muchísima referencia al concepto de copyleft dentro de cada licencia.
 

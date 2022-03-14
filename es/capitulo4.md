@@ -1,4 +1,5 @@
 # 4 Como se licencia un programa informático, aquí las guías de referencia de la FSF. [<<](../README.md)
+[<< cap3](./capitulo3.md) - [>> cap5](./capitulo5.md)
 
 ## ¿Por donde empezamos?
 

@@ -1,4 +1,5 @@
 # 8 Nos complicamos un poco más aún, ejemplo de licenciado de una aplicación con imágenes y archivos de configuración, información, etc. [<<](../README.md)
+[<< cap7](./capitulo7.md) - [>> cap9](./capitulo9.md)
 
 ## Lo único que cambia respecto a los anteriores ejemplos
 

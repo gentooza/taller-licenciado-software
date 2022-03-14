@@ -1,4 +1,5 @@
 # 9 Mantenenimiento del licenciado, gestionar forks, obras derivadas, reutilizaciones, etc. [<<](../README.md)
+[<< cap8](./capitulo8.md) - [>> cap10](./capitulo10.md)
 
 ## Mantenimiento de la licencia.
 

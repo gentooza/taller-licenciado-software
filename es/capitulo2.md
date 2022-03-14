@@ -1,4 +1,5 @@
 # 2 Introducción a las diversas licencias de software libre. [<<](../README.md)
+[<< cap1](./capitulo1.md) - [>> cap3](./capitulo3.md)
 
 ## la referencia de las referencias
 

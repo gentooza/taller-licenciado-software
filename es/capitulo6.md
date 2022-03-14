@@ -1,4 +1,5 @@
 # 6 Concepto de Copyright y qué conlleva.. [<<](../README.md)
+[<< cap5](./capitulo5.md) - [>> cap7](./capitulo7.md)
 
 ## No es contradictorio? Lo hacemos libre pero tiene copyright? Qué es?
 
