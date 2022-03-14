@@ -2,7 +2,7 @@
 
 ## ¿Qué tenemos?
 
-Partimos de un pograma simple usando python y la librería tkitner para tema de ventanas y demás.
+Partimos de un pograma simple usando python y la librería tkinter para tema de ventanas y demás.
 
 La diferencia respecto al programa en C es que mostramos una imagen.
 
@@ -42,15 +42,15 @@ Lo ideal es usar además los metadatos de la imagen para incrustarles la licenci
 
 Pensemos como queremos licenciarlas, que queremos que se pueda hacer o no con las imágenes y nuestro programa, y buscar info sobre compatibilidades.
 
-[Qué dice la GNU sobre la CCO](https://www.gnu.org/licenses/license-list.html#CC0)
+[Qué dice la FSF sobre la CCO](https://www.gnu.org/licenses/license-list.html#CC0)
 
-[Qué dice la GNU sobre la CC-BY](https://www.gnu.org/licenses/license-list.html#ccby)
+[Qué dice la FSF sobre la CC-BY](https://www.gnu.org/licenses/license-list.html#ccby)
 
-[Qué dice la GNU sobre la CC-BY-SA](https://www.gnu.org/licenses/license-list.html#ccbysa)
+[Qué dice la FSF sobre la CC-BY-SA](https://www.gnu.org/licenses/license-list.html#ccbysa)
 
-[Qué dice la GNU sobre la CC_BY-SA-NC](https://www.gnu.org/licenses/license-list.html#CC-BY-NC)
+[Qué dice la FSF sobre la CC_BY-SA-NC](https://www.gnu.org/licenses/license-list.html#CC-BY-NC)
 
-[Qué dice la GNU sobre la CC No Derivaties](https://www.gnu.org/licenses/license-list.html#CC-BY-ND)
+[Qué dice la FSF sobre la CC No Derivaties](https://www.gnu.org/licenses/license-list.html#CC-BY-ND)
 
 
 
