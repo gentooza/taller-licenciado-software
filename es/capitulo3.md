@@ -53,3 +53,15 @@ Tened en cuenta también que **El copyleft siempre vence al no copyleft**, aquí
 + Libreoffice siempre será mejor programa. (a menos que su comunidad colapsara, claro)
 
 [repetimos el enlace del punto anterior, una guía de la FSF explicando como elegir nuestra licencia.](https://www.gnu.org/licenses/license-recommendations.html
+
+***
+
+```
+copyright 2022 Joaquín Cuéllar
+
+This work is licensed under the Creative Commons Attribution 3.0 Unported License. 
+You should have received a copy of the Creative Commons Attribution 3.0 Unported License along with this program.
+To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/
+or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+```
+

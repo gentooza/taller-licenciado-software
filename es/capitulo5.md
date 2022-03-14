@@ -100,3 +100,15 @@ Como ya hemos comentado se puede poner también al final para facilitar la lectu
 En un Makefile haremos como con el código fuente, ¿como se puede comentar en un Makefile? Lo investigamos y vemos que es con corchetes (#)
 
 Pues ya está.
+
+
+***
+
+```
+copyright 2022 Joaquín Cuéllar
+
+This work is licensed under the Creative Commons Attribution 3.0 Unported License. 
+You should have received a copy of the Creative Commons Attribution 3.0 Unported License along with this program.
+To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/
+or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+```

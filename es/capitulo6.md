@@ -65,3 +65,15 @@ Hace unos años se intentó una campaña para pasar el código a la licencia AGP
 El núcleo linux posee una anomalía, y es que está licenciado bajo la GPLv2, pero no permite su actualización a versiones posteriores de la GPL (lo que llamaríamos GPLv2+)
 
 Para realizar una actualización de la licencia habría que poner a todas las personas participantes de acuerdo en hacer ese cambio de licencia, pero no se ha conseguido. (El propio Linus Torvalds se opone)
+
+***
+
+```
+copyright 2022 Joaquín Cuéllar
+
+This work is licensed under the Creative Commons Attribution 3.0 Unported License. 
+You should have received a copy of the Creative Commons Attribution 3.0 Unported License along with this program.
+To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/
+or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+```
+

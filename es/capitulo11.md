@@ -28,3 +28,14 @@ Estan todas las de la guía, más a modo resumen:
 + [Como conseguir que tu proyetco sea aprobado de manera rápida en GNU Savannah?](https://savannah.gnu.org/maintenance/HowToGetYourProjectApprovedQuickly/)
 + [Recomendaciones generales sobre licenciado](https://www.gnu.org/licenses/license-recommendations.html)
 + [Requisitos para un proyecto en GNU Savannah](https://savannah.gnu.org/register/requirements.php)
+
+***
+
+```
+copyright 2022 Joaquín Cuéllar
+
+This work is licensed under the Creative Commons Attribution 3.0 Unported License. 
+You should have received a copy of the Creative Commons Attribution 3.0 Unported License along with this program.
+To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/
+or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+```

@@ -18,4 +18,15 @@ sería:
 + 3º Si no se puede pues intentar que aparezca de una forma clara, manteniendo el correcto funcionamiento de la aplicación.
 + 4º Pedir ayuda!
 
+***
+
+```
+copyright 2022 Joaquín Cuéllar
+
+This work is licensed under the Creative Commons Attribution 3.0 Unported License. 
+You should have received a copy of the Creative Commons Attribution 3.0 Unported License along with this program.
+To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/
+or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+```
+
 
