@@ -1,4 +1,4 @@
-# 5 Concepto de Copyright y qué conlleva.. [<<](../README.md)
+# 6 Concepto de Copyright y qué conlleva.. [<<](../README.md)
 
 ## No es contradictorio? Lo hacemos libre pero tiene copyright? Qué es?
 
@@ -36,12 +36,32 @@ Podemos relicenciar el programa bajo licencias compatibles:
 
 No podemos eliminar las autorías previas. (a menos que sean licencias sin copyleft o de dominio público, aunque sería una buena práctica reconocerlas de algún modo)
 
-No podemos reutilizar código con copyleft en un programa bajo licencia sin copyleft
+Podemos relicenciar el programa bajo licencias incompatibles:
 
-[No podemos relicenciar bajo licencias incompatibles](https://www.gnu.org/licenses/license-list.es.html)
++ No podemos reutilizar código con copyleft en un programa bajo licencia sin copyleft
+
++ [No podemos relicenciar bajo licencias incompatibles](https://www.gnu.org/licenses/license-list.es.html)
 
 ## los acuerdos de cesión del copyright, porqué se hacen?
 
+Vemos que tener el copyright de un programa es un tema importante, pensad por ejemplo que un programa que habéis desarrollado y que haya recibido aportes de la comunidad. Si algún día queréis relicenciarlo tendréis que poner de acuerdo a **cada una de las personas que tienen el copyright del código** para ese cambio.
+
+Para ceder el copyright existen los acuerdos de cesión de copyright, un documento así tendréis que firmar si realizáis aportes de código a un programa oficial de la GNU (Free Software Foundation)
+
+Si no habéis firmado un documento así y habéis participado en un proyecto, tenéis vuestro copyright sobre el código que habéis aportado, aunque no se haya plasmado en una nota de copyright explícita.
+
+Tenemos muchos ejemplos, está el de la [FSF](https://www.gnu.org/licenses/why-assign.html)
+
 ## Posibles problemas con el copyright:
 
+### el programa ERP Dolibarr.
+
+Dolibarr es un programa de gestión empresarial en PHP, está licenciado bajo la GPLv3+.
+
+Hace unos años se intentó una campaña para pasar el código a la licencia AGPLv3+, pero no se consiguió poner de acuerdo a toda la gente que había participado en el proyecto y poseía copyright sobre sus aportaciones.
+
 ### el famoso caso Linux!
+
+El núcleo linux posee una anomalía, y es que está licenciado bajo la GPLv2, pero no permite su actualización a versiones posteriores de la GPL (lo que llamaríamos GPLv2+)
+
+Para realizar una actualización de la licencia habría que poner a todas las personas participantes de acuerdo en hacer ese cambio de licencia, pero no se ha conseguido. (El propio Linus Torvalds se opone)
