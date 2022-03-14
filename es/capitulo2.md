@@ -31,7 +31,7 @@ Esta frase tan bien intencionada la convierte en una licencia no libre, pues vul
 
 ### la licencia Peer Production
 
-Esta licencia ha sido polémica en movimientos sociales de nuestro País. Establece que el código de un programa y el programa en sí, aun siendo público, sólo puede ser modificado y utilizado por entidades y empresas donde los trabajadores se organicen en estructuras horizontales (cooeprativas, asociaciones...)
+Esta licencia ha sido polémica en movimientos sociales de nuestro País. Establece que el código de un programa y el programa en sí, aun siendo público, sólo puede ser modificado y utilizado por entidades y empresas donde los trabajadores se organicen en estructuras horizontales (cooperativas, asociaciones...)
 
 La hace no libre e incompatible con las licencias de la FSF, pues vulnera las libertades de poder modificar el código y uso de la aplicación.
 

@@ -3,11 +3,11 @@
 
 ## No es contradictorio? Lo hacemos libre pero tiene copyright? Qué es?
 
-El concepto legal, parece ser (no soy jurista!) que es que tenemos la propiedad intelectual de nuestra obre, pero decidimos de qué manera se gestiona su uso, derivación, distribución, etc. (derechos de explotación)
+El concepto legal, parece ser (no soy jurista!) que es que tenemos la propiedad intelectual de nuestra obra (derechos de autor), pero decidimos de qué manera se gestiona su uso, derivación, distribución, etc. (los llamados derechos de explotación)
 
 Cualquier obra intelectual tiene una propiedad intelectual, por eso hay que establecerla explícitamente de cara a aspectos legales.
 
-## creamos algo libre y tiene nuestro copyright, qué podemos hacer y qué no?
+## Creamos algo libre y tiene nuestro copyright, qué podemos hacer y qué no?
 
 ### Podemos
 
@@ -21,7 +21,7 @@ Una vez que se haya publicado bajo una licencia, no podemos evitar que se repliq
 
 La maravilla del software libre es esa, y cuesta a veces entenderla, en cuanto algo es libre y público, ya pertenece a la humanidad. (qué bonito)
 
-## reutilizamos algo libre y tiene copyright, qué podemos hacer y qué no?
+## Reutilizamos algo libre y tiene copyright, qué podemos hacer y qué no?
 
 ### Podemos
 
@@ -37,13 +37,13 @@ Podemos relicenciar el programa bajo licencias compatibles:
 
 No podemos eliminar las autorías previas. (a menos que sean licencias sin copyleft o de dominio público, aunque sería una buena práctica reconocerlas de algún modo)
 
-Podemos relicenciar el programa bajo licencias incompatibles:
+No podemos, por supuesto, relicenciar el programa bajo licencias incompatibles:
 
 + No podemos reutilizar código con copyleft en un programa bajo licencia sin copyleft
 
 + [No podemos relicenciar bajo licencias incompatibles](https://www.gnu.org/licenses/license-list.es.html)
 
-## los acuerdos de cesión del copyright, porqué se hacen?
+## Los acuerdos de cesión del copyright, porqué se hacen?
 
 Vemos que tener el copyright de un programa es un tema importante, pensad por ejemplo que un programa que habéis desarrollado y que haya recibido aportes de la comunidad. Si algún día queréis relicenciarlo tendréis que poner de acuerdo a **cada una de las personas que tienen el copyright del código** para ese cambio.
 
@@ -51,17 +51,17 @@ Para ceder el copyright existen los acuerdos de cesión de copyright, un documen
 
 Si no habéis firmado un documento así y habéis participado en un proyecto, tenéis vuestro copyright sobre el código que habéis aportado, aunque no se haya plasmado en una nota de copyright explícita.
 
-Tenemos muchos ejemplos, está el de la [FSF](https://www.gnu.org/licenses/why-assign.html)
+Os comparto el ejemplo de la [FSF](https://www.gnu.org/licenses/why-assign.html)
 
 ## Posibles problemas con el copyright:
 
-### el programa ERP Dolibarr.
+### El programa ERP Dolibarr.
 
 Dolibarr es un programa de gestión empresarial en PHP, está licenciado bajo la GPLv3+.
 
 Hace unos años se intentó una campaña para pasar el código a la licencia AGPLv3+, pero no se consiguió poner de acuerdo a toda la gente que había participado en el proyecto y poseía copyright sobre sus aportaciones.
 
-### el famoso caso Linux!
+### El famoso caso Linux!
 
 El núcleo linux posee una anomalía, y es que está licenciado bajo la GPLv2, pero no permite su actualización a versiones posteriores de la GPL (lo que llamaríamos GPLv2+)
 

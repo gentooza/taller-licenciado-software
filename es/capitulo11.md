@@ -29,6 +29,7 @@ Estan todas las de la guía, más a modo resumen:
 + [Como conseguir que tu proyetco sea aprobado de manera rápida en GNU Savannah?](https://savannah.gnu.org/maintenance/HowToGetYourProjectApprovedQuickly/)
 + [Recomendaciones generales sobre licenciado](https://www.gnu.org/licenses/license-recommendations.html)
 + [Requisitos para un proyecto en GNU Savannah](https://savannah.gnu.org/register/requirements.php)
++ [Cabeceras de licencia válidas]([referencia](https://savannah.gnu.org/maintenance/ValidNotices/))
 
 ***
 

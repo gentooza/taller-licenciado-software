@@ -13,15 +13,15 @@ Tenéis el ejemplo licenciado en la carpeta de ejemplos del raíz de esta guía.
 
 ¡Lo primero es elegir qué licencia queremos utilizar!
 
-Analizamos tres licencias de ejemplo que podríamos plantearnos cara a licenciar nuestro pequeño programa, y pros y contras que podríamos plantearnos cara a elegir la más adecuada.
+Analizamos varias licencias de ejemplo que podríamos plantearnos cara a licenciar nuestro pequeño programa, razonamos su utilidad y conveniencia cara a elegir la más adecuada.
 
 ### LGPLv3?
 
 Con la [LGPLv3](https://www.gnu.org/licenses/lgpl-3.0.en.html) nuestro programa será software libre, y estará protegido con copyleft, por lo que, como hemos visto ya, si alguién lo modifica tendrá que seguir publicando el código como software libre.
 
-Lo único es que tiene una llamada excepción en trabajos combinados (viene del C / C++, se puede usar en conjunción a código cerrado.
+Lo único es que tiene una llamada excepción en trabajos combinados (viene del concepto de linkado en C / C++) Eso es que se puede usar en conjunción a código cerrado.
 
-Esto se ha pensado para la programación de librerías de software, donde la quieres libre, pero no quieres desincentivar su uso en programas cerrado.
+Esto se ha pensado para la programación de librerías de software, donde la quieres libre, pero no quieres desincentivar su uso en programas cerrados.
 
 En nuestro caso, como es un programa y no una librería, y además somos frikis puristas! podemos decidimos desechar esta licencia.
 
@@ -59,7 +59,7 @@ En los ejemplos vamos a usar sólamente licencias con copyleft. (el autor tampoc
 
 Ea, en la web de la [GNU (brazo informático de la FSF)](https://www.gnu.org/licenses/gpl-3.0.en.html) tenemos versiones en HTML, PDF, etc. y en [texto plano](https://www.gnu.org/licenses/gpl-3.0.txt), basta con descargar la versión en [texto plano](https://www.gnu.org/licenses/gpl-3.0.txt) y pegarla en el raíz del proyecto bajo el nombre COPYING.
 
-en la carpeta COPYING de esta guía hay varias licencias de ejemplo.
+en la carpeta *ejemplos COPYING* de esta guía hay igualmente varias licencias de ejemplo.
 
 ### Establecer la cabecera de copyright.
 
@@ -76,11 +76,16 @@ Quedaría así:
     
     This file is part of Hola Mundo Especial.
 
-    Hola Mundo Especial is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+    Hola Mundo Especial is free software: you can redistribute it and/or modify it under the terms
+    of the GNU General Public License as published by the Free Software Foundation,
+    either version 3 of the License, or (at your option) any later version.
 
-    Hola Mundo Especial is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+    Hola Mundo Especial is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
+    without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR 
+    PURPOSE. See the GNU General Public License for more details.
 
-    You should have received a copy of the GNU General Public License along with Hola Mundo Especial. If not, see <https://www.gnu.org/licenses/>.
+    You should have received a copy of the GNU General Public License along with Hola Mundo Especial.
+    If not, see <https://www.gnu.org/licenses/>.
 
 ```
 

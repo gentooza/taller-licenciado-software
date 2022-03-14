@@ -10,7 +10,7 @@ Vamos a verlo, porque es clave a la hora de trabajar y decidir como queremos lic
 
 [Viva la wikipedia](https://es.wikipedia.org/wiki/Copyleft)
 
-El Copyleft básicamente es, si queremos que las obras derivadas de la nuestra preserven las mismas 4 libertades del software libre, que tenía originalmente nuestro trabajo.
+El Copyleft básicamente es, si queremos que las obras derivadas de la nuestra preserven las mismas 4 libertades del software libre que tenía originalmente nuestro trabajo.
 
 ## El debate.
 
