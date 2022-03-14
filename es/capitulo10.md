@@ -1,5 +1,5 @@
 # 10 Buenas prácticas de licenciado y curiosidades varias. [<<](../README.md)
-[<< cap9](./capitulo9.md) - [>> cap11](./capitulo11.md)
+[<< cap9](./capitulo9.md) - [cap11 >>](./capitulo11.md)
 
 ## La FSF posee varias recomendaciones de buenas prácticas, que son interesantes seguir.
 

@@ -1,5 +1,5 @@
 # 5 Ejemplo básico de licenciado de un 'Hola mundo' bajo GPLv3+. [<<](../README.md)
-[<< cap4](./capitulo4.md) - [>> cap5](./capitulo5.md)
+[<< cap4](./capitulo4.md) - [cap6 >>](./capitulo6.md)
 
 ## ¿Qué tenemos?
 

@@ -1,5 +1,5 @@
 # 1 Introducción al software libre, sabemos verdaderamente lo que es? [<<](../README.md)
-[>> cap2](./capitulo2.md)
+[cap2 >>](./capitulo2.md)
 
 ## el concepto
 

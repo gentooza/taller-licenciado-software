@@ -1,5 +1,5 @@
 # 7 Nos complicamos un poco más, ejemplo de licenciado de una aplicación con imágenes bajo GPLv3+. [<<](../README.md)
-[<< cap6](./capitulo6.md) - [>> cap8](./capitulo8.md)
+[<< cap6](./capitulo6.md) - [cap8 >>](./capitulo8.md)
 
 ## ¿Qué tenemos?
 
