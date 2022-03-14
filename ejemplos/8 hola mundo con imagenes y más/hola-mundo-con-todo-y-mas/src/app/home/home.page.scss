@@ -1,0 +1,44 @@
+/*
+    Copyright 2022 Joaquín Cuéllar.
+    
+    This file is part of Hola Mundo Especial con todo y más.
+
+    Hola Mundo Especial is free software: you can redistribute it and/or modify it 
+    under the terms of the GNU General Public License as published by the Free Software Foundation, 
+    either version 3 of the License, or (at your option) any later version.
+
+    Hola Mundo Especial is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; 
+    without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. 
+    See the GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License along with Hola Mundo Especial. 
+    If not, see <https://www.gnu.org/licenses/>.
+*/
+
+#container {
+  text-align: center;
+
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+#container strong {
+  font-size: 20px;
+  line-height: 26px;
+}
+
+#container p {
+  font-size: 16px;
+  line-height: 22px;
+
+  color: #8c8c8c;
+
+  margin: 0;
+}
+
+#container a {
+  text-decoration: none;
+}
