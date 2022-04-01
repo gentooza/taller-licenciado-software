@@ -1,6 +1,10 @@
 # taller-licenciado-software
 Taller para ayudar en el correcto licenciado de software, para el Aula de Software Libre de la Universidad de Córdoba, España.
 
+## Objetivo
+El objetivo es ser conscientes de que publicar el código tal cual **no lo hace libre** y como amantes del software libre sepamos como hacerlo correctamente para que cumpla con los aspectos legales necesarios para considerarse software libre.
+
+## Planteamiento
 Usaremos un punto de visto que estableceremos como estándar, el de la Free Software Foundation (en adelante FSF) aunque valoraremos diferentes opciones de licenciado en el taller, como puntualizaremos en el punto 10 de buenas prácticas.
 
 ## índice.
