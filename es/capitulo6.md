@@ -5,7 +5,7 @@
 
 El concepto legal, parece ser (no soy jurista!) que es que tenemos la propiedad intelectual de nuestra obra (derechos de autor), pero decidimos de qué manera se gestiona su uso, derivación, distribución, etc. (los llamados derechos de explotación)
 
-Cualquier obra intelectual tiene una propiedad intelectual, por eso hay que establecerla explícitamente de cara a aspectos legales.
+Cualquier obra intelectual tiene una propiedad intelectual y unos derechos de explotación, por eso hay que establecerlos explícitamente de cara a aspectos legales.
 
 ## Creamos algo libre y tiene nuestro copyright, qué podemos hacer y qué no?
 
@@ -13,13 +13,13 @@ Cualquier obra intelectual tiene una propiedad intelectual, por eso hay que esta
 
 Cuando creamos una obra y tiene nuestro copyright, podemos licenciarla bajo multiples licencias.
 
-Podemos tener el mismo código bajo GPLv3, y a la vez bajo apache2. O guardarnos una versión cerrada también, es nuestra obra y podemos gestionar sus derechos de explotación como nos venga en gana.
+Podemos tener el mismo código bajo GPLv3, y a la vez bajo apache2. Ó guardarnos una versión cerrada también, es nuestra obra y podemos gestionar sus derechos de explotación como nos venga en gana.
 
 ### No podemos
 
 Una vez que se haya publicado bajo una licencia, no podemos evitar que se replique, que sea modificado el trabajo, y que las obras derivadas escapen a nuestro control.
 
-La maravilla del software libre es esa, y cuesta a veces entenderla, en cuanto algo es libre y público, ya pertenece a la humanidad. (qué bonito)
+La maravilla del software libre es esa, y cuesta a veces entenderla, en cuanto algo es libre y público, ya pertenece a la humanidad.
 
 ## Reutilizamos algo libre y tiene copyright, qué podemos hacer y qué no?
 
@@ -29,19 +29,19 @@ Podemos y **debemos** añadir nuestro copyright a los archivos de código fuente
 
 Podemos relicenciar el programa bajo licencias compatibles:
 
-+ Podemos reutilizar código bajo licencia sin copyleft (MIT, BSD, apache2...) en un programa bajo licencia AGPLv3 por ejemplo.
++ Podemos reutilizar y relicenciar bajo licencias compatibles. Por ejemplo, código bajo la GPLv3 pasarlo a la AGPLv3.
++ Podemos reutilizar y relicenciar código bajo licencia sin copyleft (MIT, BSD, apache2...) en un programa bajo licencia con copyleft, AGPLv3 por ejemplo.
 + Podemos mantener la misma licencia, por supuesto.
-
 
 ### No podemos
 
-No podemos eliminar las autorías previas. (a menos que sean licencias sin copyleft o de dominio público, aunque sería una buena práctica reconocerlas de algún modo)
+No podemos eliminar las autorías previas. A menos que sean licencias sin copyleft que lo permitan o de dominio público, aunque sería una buena práctica reconocerlas de algún modo.
 
 No podemos, por supuesto, relicenciar el programa bajo licencias incompatibles:
 
 + No podemos reutilizar código con copyleft en un programa bajo licencia sin copyleft
 
-+ [No podemos relicenciar bajo licencias incompatibles](https://www.gnu.org/licenses/license-list.es.html)
++ [No podemos relicenciar bajo licencias incompatibles](https://www.gnu.org/licenses/license-list.es.html), por ejemplo un programa bajo la GPLv2 no podemos pasarlo a la GPLv3.
 
 ## Los acuerdos de cesión del copyright, porqué se hacen?
 
@@ -53,19 +53,14 @@ Si no habéis firmado un documento así y habéis participado en un proyecto, te
 
 Os comparto el ejemplo de la [FSF](https://www.gnu.org/licenses/why-assign.html)
 
-## Posibles problemas con el copyright:
-
-### El programa ERP Dolibarr.
-
-Dolibarr es un programa de gestión empresarial en PHP, está licenciado bajo la GPLv3+.
-
-Hace unos años se intentó una campaña para pasar el código a la licencia AGPLv3+, pero no se consiguió poner de acuerdo a toda la gente que había participado en el proyecto y poseía copyright sobre sus aportaciones.
-
-### El famoso caso Linux!
+## El famoso caso Linux, ejemplo de la importancia del copyright:
 
 El núcleo linux posee una anomalía, y es que está licenciado bajo la GPLv2, pero no permite su actualización a versiones posteriores de la GPL (lo que llamaríamos GPLv2+)
 
+El proyecto no contempla la cesión del copyright de quién aporte al proyecto, así que ha recibido aportaciones de multitud de personas que tienen su derecho de copyright en el código.
+
 Para realizar una actualización de la licencia habría que poner a todas las personas participantes de acuerdo en hacer ese cambio de licencia, pero no se ha conseguido. (El propio Linus Torvalds se opone)
+
 
 ***
 
