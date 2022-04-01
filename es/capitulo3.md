@@ -38,7 +38,7 @@ Pensad que tenéis que usar código libre junto con elementos de software cerrad
 
 O pensad que queréis tener una versión libre de vuestro trabajo, para que sea reutilizada en multitud de proyectos y así poder mejorarla, pero queréis tener la oportunidad de poder recuperar ese trabajo mejorado en algún proyecto que necesitéis que sea cerrado.
 
-Tened en cuenta también que **El copyleft siempre "vence" al no copyleft**, aquí os dejo el ejemplo del openoffice y el libreoffice:
+Tened en cuenta también que **El copyleft siempre "vence"` al no copyleft**, aquí os dejo el ejemplo del openoffice y el libreoffice:
 
 + Ambos comparte un origen común.
 + Openoffice tiene una licencia sin copyleft, Apache2.
